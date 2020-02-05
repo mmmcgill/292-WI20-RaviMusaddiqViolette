@@ -1,0 +1,1663 @@
+fileFormatVersion: 2
+guid: 07d51d631e71544e9988b14945301900
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6115586404572868203
+    second: mytile_0
+  - first:
+      213: 3442087205771255546
+    second: mytile_1
+  - first:
+      213: -8450247158218356394
+    second: mytile_2
+  - first:
+      213: -6769671397244012316
+    second: mytile_3
+  - first:
+      213: -7822432113020689689
+    second: mytile_4
+  - first:
+      213: -2716437540308386794
+    second: mytile_5
+  - first:
+      213: 3326431458626594157
+    second: mytile_6
+  - first:
+      213: 6323104267423907244
+    second: mytile_7
+  - first:
+      213: -8512846561266774336
+    second: mytile_8
+  - first:
+      213: -2670483842574192188
+    second: mytile_9
+  - first:
+      213: 4185582114385998478
+    second: mytile_10
+  - first:
+      213: 194714543991395450
+    second: mytile_11
+  - first:
+      213: -5999983496144750313
+    second: mytile_12
+  - first:
+      213: -2468457044961120476
+    second: mytile_13
+  - first:
+      213: -4475519780311357506
+    second: mytile_14
+  - first:
+      213: -7448972186871963914
+    second: mytile_15
+  - first:
+      213: -4617730668541959212
+    second: mytile_16
+  - first:
+      213: 883848195100504589
+    second: mytile_17
+  - first:
+      213: 6566806984805830189
+    second: mytile_18
+  - first:
+      213: 2151812746571378186
+    second: mytile_19
+  - first:
+      213: -1473588215307729292
+    second: mytile_20
+  - first:
+      213: 3218455091384678623
+    second: mytile_21
+  - first:
+      213: 8640280270561321637
+    second: mytile_22
+  - first:
+      213: -6434004036019459793
+    second: mytile_23
+  - first:
+      213: 6864381409887085398
+    second: mytile_24
+  - first:
+      213: -794390854625996637
+    second: mytile_25
+  - first:
+      213: -5347005114718098784
+    second: mytile_26
+  - first:
+      213: -45521274893405058
+    second: mytile_27
+  - first:
+      213: 5086916298826910423
+    second: mytile_28
+  - first:
+      213: -8302002836999304056
+    second: mytile_29
+  - first:
+      213: -4249655178218850215
+    second: mytile_30
+  - first:
+      213: 868064416911212068
+    second: mytile_31
+  - first:
+      213: -3407203360937964728
+    second: mytile_32
+  - first:
+      213: 7283244604884392296
+    second: mytile_33
+  - first:
+      213: -3580739512206519883
+    second: mytile_34
+  - first:
+      213: -6348104850832635960
+    second: mytile_35
+  - first:
+      213: -8349852328856699417
+    second: mytile_36
+  - first:
+      213: -4863565722880888007
+    second: mytile_37
+  - first:
+      213: -2743362648164484721
+    second: mytile_38
+  - first:
+      213: 141690230060703598
+    second: mytile_39
+  - first:
+      213: 7902063679018707327
+    second: mytile_40
+  - first:
+      213: 2677494625910131674
+    second: mytile_41
+  - first:
+      213: 5324078695139219679
+    second: mytile_42
+  - first:
+      213: 6534283448091747991
+    second: mytile_43
+  - first:
+      213: -2649409270605566876
+    second: mytile_44
+  - first:
+      213: 5886658991377958128
+    second: mytile_45
+  - first:
+      213: 5949877016396272640
+    second: mytile_46
+  - first:
+      213: -1203804127134855071
+    second: mytile_47
+  - first:
+      213: 722669102726260312
+    second: mytile_48
+  - first:
+      213: -3775772174214235152
+    second: mytile_49
+  - first:
+      213: -3236369838213480221
+    second: mytile_50
+  - first:
+      213: -2315275913303691085
+    second: mytile_51
+  - first:
+      213: 8681907552037567265
+    second: mytile_52
+  - first:
+      213: 259561088625460838
+    second: mytile_53
+  - first:
+      213: 2869191773218273555
+    second: mytile_54
+  - first:
+      213: -8431103056216945904
+    second: mytile_55
+  - first:
+      213: -5319053985924873122
+    second: mytile_56
+  - first:
+      213: -311396448130022949
+    second: mytile_57
+  - first:
+      213: -4721723733804334758
+    second: mytile_58
+  - first:
+      213: 4908725830381046796
+    second: mytile_59
+  - first:
+      213: -5006641363286264252
+    second: mytile_60
+  - first:
+      213: -6648703576375855823
+    second: mytile_61
+  - first:
+      213: 6149421415396048379
+    second: mytile_62
+  - first:
+      213: 5365675106373926192
+    second: mytile_63
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mytile_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 535.5
+        width: 76.5
+        height: 76.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 298afecaa7f8a42a3aab7a2d75b3b11a
+      internalID: 6115586404572868203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mytile_1
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 535.5
+        width: 76.5
+        height: 76.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6c8864cd09b240099297d97b0951316
+      internalID: 3442087205771255546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mytile_2
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 535.5
+        width: 76.5
+        height: 76.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05614e57154094240bd6d839ac8d44df
+      internalID: -8450247158218356394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mytile_3
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 535.5
+        width: 76.5
+        height: 76.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e047212a4d5b545288872d8522a438d7
+      internalID: -6769671397244012316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mytile_4
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 535.5
+        width: 76.5
+        height: 76.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3083a402bee0a414eb8b64226652a3fa
+      internalID: -7822432113020689689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mytile_5
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 535.5
+        width: 76.5
+        height: 76.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd90f2ee63d564d0fa4b3d9a2ce5eacb
+      internalID: -2716437540308386794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mytile_6
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 535.5
+        width: 76.5
+        height: 76.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 170b7da2c4df74281a2033c26754f01b
+      internalID: 3326431458626594157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mytile_7
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 535.5
+        width: 76.5
+        height: 76.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0bb6a5da558242e8a597336a9af61eb
+      internalID: 6323104267423907244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mytile_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 459.5
+        width: 76.5
+        height: 76.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 529657030c10c42c19396b60e6929eba
+      internalID: -8512846561266774336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mytile_9
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 459.5
+        width: 76.5
+        height: 76.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c31271e088d79457b980c5576387ac12
+      internalID: -2670483842574192188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mytile_10
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 459.5
+        width: 76.5
+        height: 76.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eea459fa747643d3935dd2b024d1c92
+      internalID: 4185582114385998478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mytile_11
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 459.5
+        width: 76.5
+        height: 76.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc138b04bc3a450d9d8b7896b7815f8
+      internalID: 194714543991395450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mytile_12
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 459.5
+        width: 76.5
+        height: 76.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f7393d6432c7436d8d89eb42e0e73bc
+      internalID: -5999983496144750313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mytile_13
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 459.5
+        width: 76.5
+        height: 76.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c61a2ad555ee433db126632453a14a0
+      internalID: -2468457044961120476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mytile_14
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 459.5
+        width: 76.5
+        height: 76.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d1c768ce89844033a123a624c156f33
+      internalID: -4475519780311357506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mytile_15
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 459.5
+        width: 76.5
+        height: 76.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72d53c36aed5e451bae7c65c099eea1b
+      internalID: -7448972186871963914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mytile_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 383.5
+        width: 76.5
+        height: 76.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca2f813c6f0ad45319a548e586a45377
+      internalID: -4617730668541959212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mytile_17
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 383.5
+        width: 76.5
+        height: 76.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ba6dfe2d580d45babe23c0dac91fba3
+      internalID: 883848195100504589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mytile_18
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 383.5
+        width: 76.5
+        height: 76.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 016894e35936d40b8a9275e977c3d4f0
+      internalID: 6566806984805830189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mytile_19
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 383.5
+        width: 76.5
+        height: 76.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b73116b785c1469d8888931a65e1ef3
+      internalID: 2151812746571378186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mytile_20
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 383.5
+        width: 76.5
+        height: 76.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c7407b7903ff4ac4a6a28aa95d19853
+      internalID: -1473588215307729292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mytile_21
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 383.5
+        width: 76.5
+        height: 76.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd24a3aa970234747a54cb51e8fa201b
+      internalID: 3218455091384678623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mytile_22
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 383.5
+        width: 76.5
+        height: 76.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3269cc3a7f2764d16b8dac2f657f72d5
+      internalID: 8640280270561321637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mytile_23
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 383.5
+        width: 76.5
+        height: 76.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 438190a5a41e043c1a9007b323e7b3d0
+      internalID: -6434004036019459793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mytile_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 307.5
+        width: 76.5
+        height: 76.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f261e0f2bcdd467b9dee406c2b1ce3f
+      internalID: 6864381409887085398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mytile_25
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 307.5
+        width: 76.5
+        height: 76.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc4c7ddac7dce43d5bec2f50b2dde850
+      internalID: -794390854625996637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mytile_26
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 307.5
+        width: 76.5
+        height: 76.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d09d0f0e0220a4e98b3c79eb43d59099
+      internalID: -5347005114718098784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mytile_27
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 307.5
+        width: 76.5
+        height: 76.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df49749fc0ef948e99f1e17614526563
+      internalID: -45521274893405058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mytile_28
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 307.5
+        width: 76.5
+        height: 76.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b02cae2e6fa3f4bc4b4a0596465be1f7
+      internalID: 5086916298826910423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mytile_29
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 307.5
+        width: 76.5
+        height: 76.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c519b5cec0cd94dc2942f144f01e65ac
+      internalID: -8302002836999304056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mytile_30
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 307.5
+        width: 76.5
+        height: 76.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c347bb4e438740e1991681d86948ec9
+      internalID: -4249655178218850215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mytile_31
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 307.5
+        width: 76.5
+        height: 76.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd810c6235104e66a1db410f1f47bbe
+      internalID: 868064416911212068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mytile_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 231.5
+        width: 76.5
+        height: 76.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 642efc10f24634043b83b49b81c2e5c1
+      internalID: -3407203360937964728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mytile_33
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 231.5
+        width: 76.5
+        height: 76.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1d3b0da1fc734621ac933dcca421764
+      internalID: 7283244604884392296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mytile_34
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 231.5
+        width: 76.5
+        height: 76.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f8ea1295bd1a4944a6a3a94f9f882aa
+      internalID: -3580739512206519883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mytile_35
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 231.5
+        width: 76.5
+        height: 76.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66800571f8755474a8ea51252cf7a5f4
+      internalID: -6348104850832635960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mytile_36
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 231.5
+        width: 76.5
+        height: 76.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b013f19c9a3146e4bc7afddec373d64
+      internalID: -8349852328856699417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mytile_37
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 231.5
+        width: 76.5
+        height: 76.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f02e352c2a67842e3905cbac7a57456c
+      internalID: -4863565722880888007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mytile_38
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 231.5
+        width: 76.5
+        height: 76.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54c084533240d45018296d39ac5f3a2f
+      internalID: -2743362648164484721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mytile_39
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 231.5
+        width: 76.5
+        height: 76.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de2c913b111104667a4913210f0c257b
+      internalID: 141690230060703598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mytile_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 155.5
+        width: 76.5
+        height: 76.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9444806e3245492faab45d5aa4b960f
+      internalID: 7902063679018707327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mytile_41
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 155.5
+        width: 76.5
+        height: 76.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79854a3b65c9a48ed9837501421d9a22
+      internalID: 2677494625910131674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mytile_42
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 155.5
+        width: 76.5
+        height: 76.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c430dc1ff69841ee80e8d17dcfc419e
+      internalID: 5324078695139219679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mytile_43
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 155.5
+        width: 76.5
+        height: 76.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0524f9ce33d34a0fa064ac4539d5f87
+      internalID: 6534283448091747991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mytile_44
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 155.5
+        width: 76.5
+        height: 76.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81758ef0d5aec4eff878ce413ab45566
+      internalID: -2649409270605566876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mytile_45
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 155.5
+        width: 76.5
+        height: 76.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59ce06d1c2c724da9ad08917011874d7
+      internalID: 5886658991377958128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mytile_46
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 155.5
+        width: 76.5
+        height: 76.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa84fdc5b6bc43ae8eb8deac0cdeab5
+      internalID: 5949877016396272640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mytile_47
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 155.5
+        width: 76.5
+        height: 76.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 737ea918792c64e2e9383f3cbc940ae0
+      internalID: -1203804127134855071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mytile_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 79.5
+        width: 76.5
+        height: 76.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a975d899193b4f2782a906c45afd2f1
+      internalID: 722669102726260312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mytile_49
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 79.5
+        width: 76.5
+        height: 76.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff6ddce5265a46d7a28fac9a7ce4384
+      internalID: -3775772174214235152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mytile_50
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 79.5
+        width: 76.5
+        height: 76.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c3032faab3a64d7ea890257ca26074e
+      internalID: -3236369838213480221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mytile_51
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 79.5
+        width: 76.5
+        height: 76.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fc0cdea90a0247e7bdb70ec8bd80d91
+      internalID: -2315275913303691085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mytile_52
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 79.5
+        width: 76.5
+        height: 76.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f8cbed462564b8d97a0c985d7b3b95
+      internalID: 8681907552037567265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mytile_53
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 79.5
+        width: 76.5
+        height: 76.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef48f115f9f0f44afa34043343e1c114
+      internalID: 259561088625460838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mytile_54
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 79.5
+        width: 76.5
+        height: 76.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 151b3ab1b56464bccb6517b00832728f
+      internalID: 2869191773218273555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mytile_55
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 79.5
+        width: 76.5
+        height: 76.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87ff7eee56a434d12a9769db1bb51487
+      internalID: -8431103056216945904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mytile_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3.5
+        width: 76.5
+        height: 76.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 895ccfb5268814494a38fb49d0800133
+      internalID: -5319053985924873122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mytile_57
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 3.5
+        width: 76.5
+        height: 76.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 143119d2589fc43cdbc16a5169274712
+      internalID: -311396448130022949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mytile_58
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 3.5
+        width: 76.5
+        height: 76.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b00322f84d5c4656ad3f08202caacec
+      internalID: -4721723733804334758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mytile_59
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 3.5
+        width: 76.5
+        height: 76.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d398183f125d4f54960170ad441b76e
+      internalID: 4908725830381046796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mytile_60
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 3.5
+        width: 76.5
+        height: 76.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d245a4b9b004701a7d3454e6cdf95a
+      internalID: -5006641363286264252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mytile_61
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 3.5
+        width: 76.5
+        height: 76.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 087a9ed1571c2497e820dd8a959fd269
+      internalID: -6648703576375855823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mytile_62
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 3.5
+        width: 76.5
+        height: 76.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7b73984a0d80408d8833e34bdc08855
+      internalID: 6149421415396048379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mytile_63
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 3.5
+        width: 76.5
+        height: 76.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e50c8901b67d04334b7398c1966fc9cb
+      internalID: 5365675106373926192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
