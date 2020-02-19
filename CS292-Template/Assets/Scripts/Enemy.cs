@@ -5,7 +5,7 @@ using UnityEngine;
 public class Enemy : MonoBehaviour
 {
 
-	public float moveSpeed = 5f;
+	public float moveSpeed = 3f;
 	public bool moveUp = false;	
 
     // Start is called before the first frame update

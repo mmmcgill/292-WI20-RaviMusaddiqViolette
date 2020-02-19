@@ -11,9 +11,10 @@ GameObject:
   - component: {fileID: 428268}
   - component: {fileID: 21287246}
   - component: {fileID: 6073531575758417807}
+  - component: {fileID: -6443231250547968555}
   m_Layer: 0
   m_Name: 4x4_white
-  m_TagString: Untagged
+  m_TagString: Collide
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -27,7 +28,7 @@ Transform:
   m_GameObject: {fileID: 117868}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -5.37, y: 4.71, z: 0}
-  m_LocalScale: {x: 0.44494, y: 0.44494, z: 0.44494}
+  m_LocalScale: {x: 0.4, y: 0.4, z: 0.4}
   m_Children:
   - {fileID: 473202}
   - {fileID: 420730}
@@ -96,8 +97,21 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82aa40113e76c154aaf73804db4ce094, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moveSpeed: 5
+  moveSpeed: 4
   moveUp: 0
+--- !u!114 &-6443231250547968555
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 117868}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 829d9a7a7a6be674d8d60926047e9aae, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  isSafe: 0
 --- !u!1 &125828
 GameObject:
   m_ObjectHideFlags: 0

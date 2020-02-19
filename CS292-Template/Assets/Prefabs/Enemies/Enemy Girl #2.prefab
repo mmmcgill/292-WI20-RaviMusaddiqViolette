@@ -11,9 +11,10 @@ GameObject:
   - component: {fileID: 4722438745210656393}
   - component: {fileID: 2215133905516663728}
   - component: {fileID: 142364244531714937}
+  - component: {fileID: -626297646972554208}
   m_Layer: 0
   m_Name: 'Enemy Girl #2'
-  m_TagString: Untagged
+  m_TagString: Collide
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -27,7 +28,7 @@ Transform:
   m_GameObject: {fileID: 479123022198303067}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -3.504, y: -1.218, z: -1.1667179}
-  m_LocalScale: {x: 0.44494, y: 0.44494, z: 0.44494}
+  m_LocalScale: {x: 0.4, y: 0.4, z: 0.4}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
@@ -95,3 +96,16 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   moveSpeed: 5
   moveUp: 0
+--- !u!114 &-626297646972554208
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 479123022198303067}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 829d9a7a7a6be674d8d60926047e9aae, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  isSafe: 0
