@@ -9,6 +9,7 @@ public class Player : MonoBehaviour
 private Vector2 originalPosition;
 public Joystick joystick;
 public AudioSource hitSource;
+public Animator animator;
 
     void Start(){
 rb= GetComponent<Rigidbody2D>();
@@ -21,6 +22,12 @@ void Update()
 {
 float horizontal = joystick.Horizontal;
 float vertical= joystick.Vertical;
+
+animator.SetFloat("Horizontal", Input.GetAxis("Horizontal"));
+
+Vector3 horizontal2 = new Vector3(Input.GetAxis("Horizontal"), 0.0f, 0.0f);
+
+
 Vector2 position =rb.position;
 	
 		position.x = position.x + speed * horizontal * Time.deltaTime;
@@ -31,6 +38,18 @@ Vector2 position =rb.position;
 
 rb.MovePosition(position);
 CheckCollisions();
+
+
+
+}
+
+private void OnTriggerEnter2D(Collider2D other) {
+
+	if(other.gameObject.CompareTag("Acorns")){
+		Destroy(other.gameObject);
+	}
+
+
 }
    
 private void CheckCollisions(){

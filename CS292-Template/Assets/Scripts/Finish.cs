@@ -5,14 +5,22 @@ using UnityEngine.SceneManagement;
 
 public class Finish : MonoBehaviour
 {
-    void OnTriggerEnter2D(Collider2D collider){
-	GameObject hitObj = collider.gameObject;
+	
+	//[SerializeField]
+	public ScoreManager scoreManager;
 
-	if (hitObj.tag == "Player"){
-		GameOver();
+	void Start(){
+		scoreManager = GameObject.Find("ScoreManager").GetComponent<ScoreManager>();
 	}
 
-    }
+    	void OnTriggerEnter2D(Collider2D collider){
+		GameObject hitObj = collider.gameObject;
+
+		if (hitObj.tag == "Player" && scoreManager.score == 3) {
+			GameOver();
+		}
+
+    	}
 
 	private void GameOver(){
       	  SceneManager.LoadScene(0); 
