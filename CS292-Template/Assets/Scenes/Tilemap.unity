@@ -810,6 +810,11 @@ PrefabInstance:
       propertyPath: m_SortingOrder
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 2741267373358759970, guid: d48d2e213d8867c40bdbe26139d07236,
+        type: 3}
+      propertyPath: m_FlipY
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3463996784942744896, guid: d48d2e213d8867c40bdbe26139d07236,
         type: 3}
       propertyPath: m_Name
@@ -1002,7 +1007,7 @@ Transform:
   m_LocalScale: {x: 6.0216885, y: 6.0216885, z: 0.12043376}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 27
+  m_RootOrder: 26
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &231342549
 PrefabInstance:
@@ -3156,8 +3161,8 @@ Tilemap:
   - m_RefCount: 11
     m_Data: {fileID: 5886658991377958128, guid: 07d51d631e71544e9988b14945301900,
       type: 3}
-  - m_RefCount: 0
-    m_Data: {fileID: 0}
+  - m_RefCount: 1
+    m_Data: {fileID: 21300000, guid: 664153703d040479ebfb962b5a772f80, type: 3}
   m_TileMatrixArray:
   - m_RefCount: 150
     m_Data:
@@ -3490,7 +3495,7 @@ Transform:
   m_LocalScale: {x: 6.0216885, y: 6.0216885, z: 0.12043376}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 25
+  m_RootOrder: 24
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &687704664
 MonoBehaviour:
@@ -4157,7 +4162,7 @@ Transform:
   m_Children:
   - {fileID: 1026793712}
   m_Father: {fileID: 0}
-  m_RootOrder: 24
+  m_RootOrder: 23
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1363147639
 GameObject:
@@ -4467,7 +4472,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 26
+  m_RootOrder: 25
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!224 &1494436461 stripped
 RectTransform:
@@ -5177,7 +5182,7 @@ Transform:
   m_LocalScale: {x: 6.0216885, y: 6.0216885, z: 0.12043376}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 28
+  m_RootOrder: 27
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1852540640
 PrefabInstance:
