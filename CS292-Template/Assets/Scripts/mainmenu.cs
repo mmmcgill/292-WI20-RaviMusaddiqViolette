@@ -1,4 +1,4 @@
-using System.Collections;
+﻿using System.Collections;
 
 using System.Collections.Generic;
 
@@ -18,13 +18,8 @@ public class mainmenu : MonoBehaviour
 
 }
 
+    public void Retry(){
 
-
-public void QuitGame()
-{
-Application.Quit();
-}
-
+    }
 
 }
-
