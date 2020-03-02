@@ -4,26 +4,27 @@ using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 
-public class Timer : MonoBehaviour
+public class TimerFunction : MonoBehaviour
 {
-    float currentTime = 0f;
-    float startingTime = 60f;
-
+    public float currentTime = 0f;
+    public float startingTime = 60f;
+    
     [SerializeField] Text countdownText;
 
     void Start()
     {
         currentTime = startingTime;
+	
     }
 
     void Update()
     {
         currentTime -= 1 * Time.deltaTime;
         countdownText.text = currentTime.ToString("0");
-        Debug.Log(currentTime);
-        if (currentTime <= 0)
+        //Debug.Log(currentTime);
+        if (currentTime <= 0){
             GameOver();
-        
+        }
 
     }
     
